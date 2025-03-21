@@ -14,4 +14,4 @@ Hello world app with Github CI setup (docker version)
 
 ## Pushes images to GHCR
 
-[ghcr.io/alexeysirenko/prjctr-23-ci/my-image](ghcr.io/alexeysirenko/prjctr-23-ci/my-image)
+[ghcr.io](https://github.com/alexeysirenko/prjctr-23-ci/pkgs/container/prjctr-23-ci%2Fmy-image)
